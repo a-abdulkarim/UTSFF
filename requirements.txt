@@ -1,4 +1,3 @@
-exceptions
 graphviz
 pandas
 streamlit
