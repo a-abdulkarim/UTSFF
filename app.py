@@ -1,4 +1,3 @@
-pip install graphviz
 import pandas as pd
 import streamlit as st
 import graphviz
