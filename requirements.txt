@@ -1,7 +1,4 @@
 graphviz
 pandas
 streamlit
-graphviz
-docx
-io
-tempfile
+python-docx
