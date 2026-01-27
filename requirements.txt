@@ -2,3 +2,4 @@ graphviz
 pandas
 streamlit
 python-docx
+altair<5
