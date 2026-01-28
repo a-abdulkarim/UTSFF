@@ -1,5 +1,6 @@
 graphviz
 pandas
 streamlit
+standard-imghdr
 python-docx
 altair<5
